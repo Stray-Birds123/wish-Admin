@@ -1,0 +1,10 @@
+INSERT INTO `wishness` VALUES (1, '小王', '今天天气好吗', '2019-4-21 11:33:21', NULL);
+INSERT INTO `wishness` VALUES (2, '小明', '许愿板加载接口完成', '2020-11-17 20:26:43', NULL);
+INSERT INTO `wishness` VALUES (3, '徐小可', '成为带佬', '2020-12-30 14:04:54', '2020-12-30 14:04:54');
+INSERT INTO `wishness` VALUES (4, ' Stray-Birds', 'start 50万', '2020-12-30 16:29:16', '2020-12-30 16:29:16');
+INSERT INTO `wishness` VALUES (5, '大学', '许个愿', '2020-12-30 16:32:07', '2020-12-30 16:32:07');
+INSERT INTO `wishness` VALUES (6, 'nyy', '许个愿', '2020-12-30 16:42:28', '2020-12-30 16:42:28');
+INSERT INTO `wishness` VALUES (7, 'nyynb', 'start 50万', '2020-12-30 16:45:11', '2020-12-30 16:45:11');
+INSERT INTO `wishness` VALUES (8, 'Stray-Birds', '成为带佬', '2020-12-30 16:47:03', '2020-12-30 16:47:03');
+INSERT INTO `wishness` VALUES (9, '豆豆', 'start 50万', '2020-12-30 16:48:34', '2020-12-30 16:48:34');
+INSERT INTO `wishness` VALUES (10, '大学', '成为带佬', '2020-12-30 17:05:21', '2020-12-30 17:05:21');
